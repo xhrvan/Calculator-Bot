@@ -6,7 +6,7 @@ A calculator telegram bot.
 
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/xhrvan/Calculator-Bot/tree/main">
+  <a href="https://github.com/tecnoagateam/Calculator-Bot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
